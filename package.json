@@ -1,0 +1,22 @@
+{
+  "name": "erc1155-game-experiment",
+  "version": "1.0.0",
+  "description": "Creating a contract that could serve as digital assets in a video game. This contract will have 3 different token types, Suresh Dollars, Crafting Material and a special items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeepsuresh1998/erc1155-game-experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeepsuresh1998/erc1155-game-experiment/issues"
+  },
+  "homepage": "https://github.com/Sandeepsuresh1998/erc1155-game-experiment#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
